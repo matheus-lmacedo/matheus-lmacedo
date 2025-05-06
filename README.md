@@ -14,9 +14,7 @@
 ### Glad to see you here!  
 I’m a FullStack Junior Developer and aspiring Software Engineer  
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -37,7 +35,6 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 </td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -62,7 +59,6 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -76,14 +72,9 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 
 <br/>  
 
-  
-
 <br/>  
 
-  
-
 <br/>  
-
 
 <br />
 
