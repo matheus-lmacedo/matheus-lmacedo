@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-- ⚡ Fun fact **I don't know.**
+- ⚡ Fun fact: **I don't know.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
