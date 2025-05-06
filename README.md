@@ -11,8 +11,8 @@
 
 
 
-### Glad to see you here!  
-I’m a FullStack Junior Developer and aspiring Software Engineer  
+### Glad to see you here 👋!  
+I’m a FullStack Junior Developer and aspiring Software Engineer 🚀
   
 <br/>  
 
@@ -59,7 +59,7 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 
 <br/>  
 
-## Github Stats  
+##😔 Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-lmacedo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
@@ -71,8 +71,6 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 </td></tr></table>  
 
 <br/>  
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matheus-lmacedo)
 
 <br/>  
 
