@@ -68,9 +68,9 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-lmacedo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-lmacedo&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-lmacedo&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -88,7 +88,6 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
