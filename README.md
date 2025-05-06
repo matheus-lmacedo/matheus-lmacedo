@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheus-lmacedo" alt="matheus-lmacedo" /></a> </p>
-
 - ⚡ Fun fact **I don't know.**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-lmacedo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="matheus-lmacedo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-lmacedo&show_icons=true&theme=tokyonight&locale=en" alt="matheus-lmacedo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-lmacedo&theme=dark" alt="matheus-lmacedo" /></p>
