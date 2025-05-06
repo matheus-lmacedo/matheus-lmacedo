@@ -72,6 +72,8 @@ I’m a FullStack Junior Developer and aspiring Software Engineer
 
 <br/>  
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matheus-lmacedo)
+
 <br/>  
 
 <br/>  
