@@ -19,9 +19,9 @@ I’m a FullStack Junior Developer and aspiring Software Engineer 🚀
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently practicing my skills on projects  
-  
-
+- 🌱 I’m currently practicing my skills on projects
+- 📚 Deepening my knowledge in software architecture and engineering best practices
+- 🚀 Staying up to date with the latest trends and technologies in the web ecosystem
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
