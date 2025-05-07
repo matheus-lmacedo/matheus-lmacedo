@@ -31,7 +31,7 @@ I’m a FullStack Junior Developer and aspiring Software Engineer 🚀
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.tenor.com/BuSEbkm9aAIAAAAj/hi-otag.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/BuSEbkm9aAIAAAAj/hi-otag.gif" align="center" style="width: 100% height=100%" />
 </div>  
 
 
