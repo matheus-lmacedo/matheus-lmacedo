@@ -63,27 +63,6 @@ I’m a FullStack Junior Developer and aspiring Software Engineer 🚀
 
 <br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=matheus-lmacedo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-lmacedo&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br />
-
-----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
