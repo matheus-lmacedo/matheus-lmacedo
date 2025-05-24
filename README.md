@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here 👋!  
-I’m a FullStack Developer and aspiring Software Engineer 🚀
+I’m a FullStack Developer and aspiring Software Engineer, Data Scientist and LLMs engineer 🚀
   
 <br/>  
 
